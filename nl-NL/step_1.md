@@ -1,0 +1,5 @@
+Bekijk [Coolest Projects](https://coolestprojects.org/){:target="_blank"}, 's werelds toonaangevende technologie showcase voor jongeren! Op de website van [Coolest Projects](https://coolestprojects.org/){:target="_blank"} kun je zien wanneer de project registratie start en kun je je voorbereiden om je project te registreren!
+
+Als je een Python project hebt gemaakt, kun je je project registreren in de categorie Python wanneer de registratie van Coolest Projects projecten van start gaat. Je project hoeft niet af te zijn - prototypes en werk in uitvoering zijn ook welkom! Wanneer je je project hebt aangemeld, wordt je creatie tentoongesteld in de Coolest Projects online galerij, zodat mensen over de hele wereld het kunnen zien! Sluit je aan bij andere jongeren om als één gemeenschap elkaars prestaties te vieren en te erkennen.
+
+Je kunt de Coolest Projects [Hoe maak ik een project](https://coolestprojects.org/2020/03/31/how-to-make-a-project-workbook-and-additional-resources/){:target="_blank"} bronnen gebruiken om je te helpen bij het bedenken van originele ideeën voor je project.
