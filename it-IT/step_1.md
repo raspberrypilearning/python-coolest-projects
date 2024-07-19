@@ -1,0 +1,5 @@
+Dai un'occhiata a [Coolest Projects](https://coolestprojects.org/){:target="_blank"}, la principale vetrina tecnologica al mondo rivolta ai giovani! Sul sito [Coolest Projects](https://coolestprojects.org/){:target="_blank"}, puoi scoprire quando si aprirà la registrazione dei progetti e prepararti a registrare il tuo!
+
+Se hai realizzato un progetto in Python, puoi registrarlo nella categoria Python quando verrà aperta la registrazione a Coolest Projects. Il tuo progetto non deve essere necessariamente finito: anche i prototipi e i lavori in corso sono i benvenuti! Una volta inserito il tuo progetto, la tua creazione verrà mostrata nella galleria online di Coolest Projects, affinché le persone di tutto il mondo possano vederla! Unisciti ad altri e altre giovani per celebrare e riconoscere i rispettivi successi come comunità.
+
+Puoi utilizzare le risorse di Coolest Projects [Come realizzare un progetto](https://coolestprojects.org/2020/03/31/how-to-make-a-project-workbook-and-additional-resources/){:target="_blank"} per aiutarti a ideare nuovi progetto originali.
